@@ -1,6 +1,6 @@
 {
     "name": "valclient.js",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Valorant Client API Wrapper in NodeJS",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
@@ -28,14 +28,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/igorwessel/valclient.js.git"
+        "url": "git+https://github.com/DamsDev1/valclient.js.git"
     },
     "author": "Igor Wessel",
+    "maintainers": [
+        "damsdev1"
+    ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/igorwessel/valclient.js/issues"
+        "url": "https://github.com/DamsDev1/valclient.js/issues"
     },
-    "homepage": "https://github.com/igorwessel/valclient.js#readme",
+    "homepage": "https://github.com/DamsDev1/valclient.js#readme",
     "dependencies": {
         "axios": "0.21.4",
         "axios-cookiejar-support": "1.0.1",
