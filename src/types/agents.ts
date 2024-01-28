@@ -1,8 +1,10 @@
 /* FILE GENERATED AUTOMATICALLY */
 
 export type Agents =
+    | "Gekko"
     | "Fade"
     | "Breach"
+    | "Deadlock"
     | "Raze"
     | "Chamber"
     | "KAY/O"
@@ -10,10 +12,12 @@ export type Agents =
     | "Cypher"
     | "Sova"
     | "Killjoy"
+    | "Harbor"
     | "Viper"
     | "Phoenix"
     | "Astra"
     | "Brimstone"
+    | "Iso"
     | "Neon"
     | "Yoru"
     | "Sage"
