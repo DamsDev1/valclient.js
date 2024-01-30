@@ -7061,10 +7061,17 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         DanceFever: "2d230b9a-4fa1-4fd7-6685-0eaa122d37f5",
         "K.nockO.ut!!": "b274c07d-45e7-f259-fc0a-eb9caf72b66a",
     },
-    "Radiant Entertainment System Ghost": {
-        Default: "04c7e366-4563-be98-e870-66889e4f5dc4",
-        DanceFever: "2d230b9a-4fa1-4fd7-6685-0eaa122d37f5",
-        "K.nockO.ut!!": "b274c07d-45e7-f259-fc0a-eb9caf72b66a",
+    "Prism//Reloaded Outlaw": {
+        "Level 1": "0215edbb-4d4c-ef7a-3b4f-aba2e0c1014a",
+    },
+    "Standard Outlaw": {
+        "Level 1": "e4d16fc0-47a2-323f-0564-9495418237e8",
+    },
+    "Ego Outlaw": {
+        "Level 1": "d76e97cf-4a23-cafa-fe60-439a8ca7b37a",
+    },
+    "Task Force 809 Marshal": {
+        "Level 1": "8c19bbbd-46aa-6037-b0fd-edafd6227de6",
     },
     "Oni Bucky": {
         Default: "88d497c4-4d21-22d6-02d0-6caef087d263",
@@ -10241,8 +10248,23 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Composite Knife": {
         Default: "66d057a7-4681-bd8b-ecbc-258573e6fd0a",
     },
-    "Champions 2021 Karambit": {
-        Default: "62926dfc-4ffb-c65e-dd4b-8b96b6deee77",
+    "Prism//Reloaded Outlaw": {
+        Default: "7ab22263-4c7a-ee26-7e49-b6947faa45e7",
+        Orange: "032f6423-40d5-7fb4-3e14-64b2d1e59bba",
+        Pink: "aa0fd9a6-4222-bbc6-adff-4f8e71bd8b7d",
+        Green: "d49f55a7-48c6-11b4-9e34-88bdeb7fab08",
+    },
+    "Standard Outlaw": {
+        Default: "66c8d241-4f7c-6652-3aaa-51bafffbd493",
+    },
+    "Ego Outlaw": {
+        Default: "bb8acb8d-42a0-01ce-c342-168b674aab2d",
+        Red: "56c6efe6-44f8-8c6c-3ab9-1a8a4f7c80ee",
+        Tan: "d61375ca-466d-75a5-7e65-65a863ee79d6",
+        Pink: "d637f729-49f4-cbce-3d0d-a0bbefb7e522",
+    },
+    "Task Force 809 Marshal": {
+        Default: "c27a963f-4930-d471-a43e-4c9901add819",
     },
     "Champions 2022 Butterfly Knife": {
         Default: "579c78dc-405e-8e01-949f-d6afb4fb1bc3",
