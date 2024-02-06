@@ -109,6 +109,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         ".SYS Vandal": "23d61dbb-457a-5590-2e91-38a67a52c332",
         "Horizon Vandal": "9d71edb0-453c-defa-507d-57aa2935b379",
         "Prime Vandal": "b9ee2457-481c-6776-3f5b-0ca8e8f90c89",
+        "XERØFANG Vandal ": "b6f79657-4a6d-e2ae-3d64-4fbcde2958a4",
         "Avalanche Vandal": "41b55c92-4aeb-9c86-854a-4abcd48ea0ba",
         "Guardrail Vandal": "580dc7c6-4342-86fe-1fe8-c4b63e212fc9",
         "Black.Market Vandal": "a810ec6b-46e7-767d-7186-2cbe49e7fe1b",
@@ -470,8 +471,12 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Digihex Ghost": "a754999a-4acf-0fca-a155-3684f176b5fe",
         "Infantry Ghost": "65ce6a98-4867-b695-279f-819c44ec6f95",
         "Goldwing Ghost": "44be88b3-4a0e-64c8-950d-66a969e71f7e",
-        "Gaia's Vengeance Ghost": "daed0e44-4ab6-22b4-a5a5-57a4957a056b",
-        "Piedra del Sol Ghost": "9db45d13-4cc3-4b6c-4801-459b79f8cda5",
+        "XERØFANG Ghost": "1c1ea3cf-4146-de0f-7e6a-828f68f0bb63",
+        "Outpost Ghost": "377ea8ac-46bf-52da-3173-109c2950dc9d",
+        "Prism Ghost": "8163db1a-4e3c-8f11-92fd-bc9e26253593",
+        "Serenity Ghost": "d8314b6c-45fc-fbda-a797-569a24c11bb9",
+        "Ruination Ghost": "8a513c24-4c4d-ac15-6066-a1b2ff577041",
+        "Luxe Ghost": "cb98b0d6-4e26-973c-c10d-a38637d04b65",
         "Magepunk Ghost": "33824a13-453b-0636-4ec4-e19708aa934e",
         "Valiant Hero Ghost": "48486283-48d8-cb8b-01c9-9b9409ab1d4d",
         "Libretto Ghost": "e552accf-4c90-0221-02c2-889b6fe10d8f",
@@ -884,6 +889,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Soulstrife Scythe": "dfe96f5a-4be0-c3f4-8e31-7f962bca2ade",
         "Prime Axe": "e100dff1-4cf5-54ec-aa65-6fadbc22973b",
         "Prime//2.0 Karambit": "9237e734-4a2a-38ae-7438-6cbee901877d",
+        "XERØFANG Knife": "dc6cb084-4fb2-89cf-2113-4facb7767e9f",
         "Outpost Melee": "908be835-43bc-b728-35a4-0fa91f612cc0",
         "Guardrail Hammer": "4ef258bb-49bf-74c5-3405-16a041cb7306",
         "Black.Market Butterfly Knife": "9b6d0e3d-43eb-e9d5-4069-2194e02d6e6e",
@@ -5124,9 +5130,14 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "278e57d8-4abd-57b9-394b-abb8b48c1cd3",
         "Level 2": "cbd9f020-4ee9-d9a5-d57a-9f9f9166717c",
     },
-    "Luna's Descent": {
-        "Level 1": "278e57d8-4abd-57b9-394b-abb8b48c1cd3",
-        "Level 2": "cbd9f020-4ee9-d9a5-d57a-9f9f9166717c",
+    "XERØFANG Vandal ": {
+        "Level 1": "1d722b60-4def-659b-cb30-45970ab2e606",
+        "Level 2": "6fa5629e-4005-a012-7c72-5fac304aa525",
+        "Level 3": "0ea6282c-4927-79ee-495c-98b3215cf886",
+        "Level 4": "4e7e8ed2-44bf-3112-f643-6686c6a2250b",
+    },
+    "Avalanche Vandal": {
+        "Level 1": "fbfc273b-4c12-961a-a4fb-978b43be81a9",
     },
     "Gravitational Uranium Neuroblaster Baton": {
         "Level 1": "3710f62c-4e0c-65fd-848d-8da25d2fb833",
@@ -6376,8 +6387,14 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "765c1e64-4e53-f855-a0f9-c7bb0254d4e5",
         Black: "62228fbd-418d-a7d6-e44a-06885debdef5",
     },
-    "Abyssal Phantom": {
-        Default: "8be317ca-466a-cd33-3e17-799b4be479fa",
+    "XERØFANG Ghost": {
+        "Level 1": "51ba009e-4af0-8255-5ada-8a89d244f24c",
+        "Level 2": "5b9d8b84-4392-aeed-6875-08ab11dafe19",
+        "Level 3": "ac1d2fd9-445c-783f-3759-529f4386959f",
+        "Level 4": "212a97e3-4d94-87db-18e7-9caa0b8205dc",
+    },
+    "Outpost Ghost": {
+        "Level 1": "9fa5664e-45fa-2a52-68e4-db97d85c8a91",
     },
     "ChronoVoid Phantom": {
         Default: "6a203339-4efb-55fd-3473-b59503c224b2",
@@ -7100,8 +7117,17 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Panoramic Bucky": {
         Default: "dc27fea0-4ede-34e3-58fa-9586c46058b2",
     },
-    "Cavalier Bucky": {
-        Default: "dfc525fb-4515-1d0d-3292-959326cc86de",
+    "Prism//Reloaded Outlaw": {
+        "Level 1": "0215edbb-4d4c-ef7a-3b4f-aba2e0c1014a",
+    },
+    "Standard Outlaw": {
+        "Level 1": "e4d16fc0-47a2-323f-0564-9495418237e8",
+    },
+    "Ego Outlaw": {
+        "Level 1": "d76e97cf-4a23-cafa-fe60-439a8ca7b37a",
+    },
+    "Task Force 809 Marshal": {
+        "Level 1": "8c19bbbd-46aa-6037-b0fd-edafd6227de6",
     },
     "Spitfire Guardian": {
         Default: "d7fa6b9a-4623-788c-801a-2896a6177ab3",
@@ -7718,8 +7744,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Wayfarer Sheriff": {
         Default: "0d3c5ca0-49a2-eef8-d01a-2e9dd8d5d574",
     },
-    "Mythmaker Sheriff": {
-        Default: "a239aa4c-4757-2621-bd06-519dfdde018d",
+    "XERØFANG Knife": {
+        "Level 1": "062e684d-4212-eeff-7443-cbb53b0f5ce2",
+        "Level 2": "70390764-4b8a-6552-fc0f-d69fcccfa83c",
+    },
+    "Outpost Melee": {
+        "Level 1": "3a1ec58c-4380-0622-7fde-c1936519fcf2",
     },
     "Valiant Hero Ghost": {
         Default: "564f2896-445a-c47d-a128-69862e679e8f",
@@ -8338,11 +8368,14 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         "Red/Green": "104c561d-448d-59d9-9b42-bda69469122f",
         "Blue/Purple": "46e88e9f-46b0-89ea-5874-f7b8a9666a91",
     },
-    "Transition Shorty": {
-        Default: "0aff787a-46ef-4197-2e11-938d58bbd764",
-        Blue: "f5e43893-461f-f057-7419-81be02163f95",
-        Orange: "27cd4e6f-480a-9a90-9e43-eab89c8bff19",
-        Green: "95e181ba-4355-c07e-d13a-84bb655da638",
+    "XERØFANG Vandal ": {
+        Default: "301fef53-4091-7bf8-07b9-bc8701b217a5",
+        Black: "13f520fd-44df-097b-2476-298f6a773b3a",
+        Pink: "a4c996d3-4b0a-d867-facc-01b613f0aca8",
+        Silver: "1e1d6d2f-433b-f15b-2936-c89ea5dcaf3a",
+    },
+    "Avalanche Vandal": {
+        Default: "3b47b889-493b-b28f-131b-adaf01e18970",
     },
     "Sentinels of Light Shorty": {
         Default: "8d6c9af5-4827-d46c-5245-49a7287f225c",
@@ -9543,8 +9576,14 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Sunset: "c41c4849-41f6-1905-8a35-58a6e5f2404a",
         Midnight: "33b432fd-4766-e358-9b71-89bc6a98719c",
     },
-    "Emberclad Spectre": {
-        Default: "60282271-4086-c2ca-9df1-ca8bac664b3b",
+    "XERØFANG Ghost": {
+        Default: "210b969e-496c-29fc-d2f3-7da9bfeb618f",
+        Black: "344fed75-47c0-fb2d-2e54-c89ca3b7d8ab",
+        Pink: "510eda56-48f1-aa87-bbf8-daabbfc80df6",
+        Silver: "a1ea10cd-4879-66ff-3b53-038f946f49d4",
+    },
+    "Outpost Ghost": {
+        Default: "20e2f0ee-43a8-5b68-403d-4a8c3158619d",
     },
     "Abyssal Spectre": {
         Default: "45bfac23-4e59-1f99-2e4c-9fa9c9ead038",
@@ -10247,6 +10286,21 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Composite Knife": {
         Default: "66d057a7-4681-bd8b-ecbc-258573e6fd0a",
+    },
+    "Prism//Reloaded Outlaw": {
+        Default: "7ab22263-4c7a-ee26-7e49-b6947faa45e7",
+        Orange: "032f6423-40d5-7fb4-3e14-64b2d1e59bba",
+        Pink: "aa0fd9a6-4222-bbc6-adff-4f8e71bd8b7d",
+        Green: "d49f55a7-48c6-11b4-9e34-88bdeb7fab08",
+    },
+    "Standard Outlaw": {
+        Default: "66c8d241-4f7c-6652-3aaa-51bafffbd493",
+    },
+    "Ego Outlaw": {
+        Default: "bb8acb8d-42a0-01ce-c342-168b674aab2d",
+        Red: "56c6efe6-44f8-8c6c-3ab9-1a8a4f7c80ee",
+        Tan: "d61375ca-466d-75a5-7e65-65a863ee79d6",
+        Pink: "d637f729-49f4-cbce-3d0d-a0bbefb7e522",
     },
     "Prism//Reloaded Outlaw": {
         Default: "7ab22263-4c7a-ee26-7e49-b6947faa45e7",
@@ -10970,8 +11024,14 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Luna's Descent": {
         Default: "2de976d1-498c-eb19-9dc0-e6937915acea",
     },
-    "Luna's Descent": {
-        Default: "2de976d1-498c-eb19-9dc0-e6937915acea",
+    "XERØFANG Knife": {
+        Default: "cdbb2e19-465d-4ba0-4617-51bbe1f208e7",
+        Black: "a3145477-4e34-16a0-dacc-d485091199d6",
+        Pink: "0afce91c-445d-380d-d879-1ea038567572",
+        Silver: "17c52637-4310-6b20-6a0e-43b8c4c39d7c",
+    },
+    "Outpost Melee": {
+        Default: "2f6deeda-45f5-9398-a057-1d968b9e91fd",
     },
     "Luna's Descent": {
         Default: "2de976d1-498c-eb19-9dc0-e6937915acea",

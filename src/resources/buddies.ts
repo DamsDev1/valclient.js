@@ -183,6 +183,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Hydrodip Buddy": "a696732c-4e9a-c162-3f04-bab15308aec4",
     "Prime Buddy": "8ac9948e-4c40-bcec-4f7d-e6bd5c8b349c",
     "Prime//2.0 Buddy": "32910c32-45e3-4959-9322-1a9fda1126ca",
+    "XERØFANG Buddy ": "37bb5fa0-40c7-2247-2b0b-6a82a16b04f1",
     "Frozen Solid Buddy": "14b87153-4fc2-707f-46e5-15b5ffe2f529",
     "Icy Crate Buddy": "90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9",
     "Premier Ignition Champion Buddy": "ac306edc-49bd-0f04-0104-afa2ae783b99",
@@ -497,6 +498,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Sample 36-K Buddy": "b37765f0-48cd-9a0b-ceb7-8e8d261f4373",
     "Radianite Orb Buddy": "cd1ef501-476d-e9fb-3944-a6b0e2a79878",
     "Tigris Buddy": "d3cc1856-4df9-ca86-deee-3f80af0edf79",
+    "Fortune Paws Buddy": "d5061e49-44fa-3e30-242c-fc8d01f01187",
     "Toaster Buddy": "22481bd6-45d7-55a9-db2f-f4a7b86c0d05",
     "NO LIMITS Buddy": "533c84ee-405e-42aa-2f1e-54a60436259e",
     "Octobuddy Buddy": "934164fc-49dd-1e67-0896-6c8e645fd081",
@@ -511,6 +513,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Exquisitely Wrapped Buddy": "ada5f921-4d81-f439-0017-0e86877a02bd",
     "Stringed Soprano Buddy": "c40fd3cc-41d7-20f2-fef4-6b954d8813c5",
     "Ego Buddy": "43922614-4fe5-52c9-8d35-689db5ec4681",
+    "Duo's Day Buddy": "27842e23-4db9-c633-928a-a183d0b00ea0",
     "The Wheel of Steel Buddy": "86bbce95-4b76-c933-9939-9aa0f0f2c169",
     "Soul Capsule Buddy": "c4f69de5-4440-19b5-8953-36b12ba42bb0",
     "Walis Tambo Buddy": "575ddf35-42a1-1de6-8599-d78dc7fb9a02",
@@ -1103,6 +1106,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Crunch the Numbers Buddy": {
         "1": "3d8f4162-451b-bcaf-654e-a8882353221e",
+    },
+    "XERØFANG Buddy ": {
+        "1": "f1cd02c0-44ca-79b8-1737-ecbdb9b46ae2",
     },
     "Frozen Solid Buddy": {
         "1": "48aaf4dc-49b9-d8dc-c599-a4917019cc82",
@@ -2454,8 +2460,11 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Walis Tambo Buddy": {
         "1": "2e164663-438a-91a1-7533-34b1e7fa8cf0",
     },
-    "Luna Buddy": {
-        "1": "76cdcb09-4ba0-d657-ed3d-4c8b7dbb21c5",
+    "Fortune Paws Buddy": {
+        "1": "706952bf-4d42-d804-5efb-50aec992c374",
+    },
+    "Toaster Buddy": {
+        "1": "7944b081-4b0f-81c8-e41f-3aa5c634b782",
     },
     "White Snake Buddy": {
         "1": "0c163690-44c5-a5f1-3bdc-42acdc75df94",
@@ -2496,11 +2505,11 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "White Snake Buddy": {
         "1": "0c163690-44c5-a5f1-3bdc-42acdc75df94",
     },
-    "Walis Tambo Buddy": {
-        "1": "2e164663-438a-91a1-7533-34b1e7fa8cf0",
+    "Duo's Day Buddy": {
+        "1": "04c5b7dd-40a2-643e-b34f-3e88a533ea4e",
     },
-    "Luna Buddy": {
-        "1": "76cdcb09-4ba0-d657-ed3d-4c8b7dbb21c5",
+    "The Wheel of Steel Buddy": {
+        "1": "b318af9c-4db8-e0cf-8bb1-bea643b1aa9c",
     },
     "White Snake Buddy": {
         "1": "0c163690-44c5-a5f1-3bdc-42acdc75df94",

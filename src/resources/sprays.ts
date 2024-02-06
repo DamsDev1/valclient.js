@@ -538,12 +538,16 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Sic' Em Spray": "166a3fb6-492c-9437-417d-b8852128f73c",
     "Give Back Spray": "8f7ef66d-49f2-867f-2ff8-1391a23c89d0",
     "Party's Here Spray": "67481014-423a-3175-4f5e-d0ba9422f887",
+    "Delightful Stretch Spray": "30075be9-4d6b-3ec1-9f9d-b18b3898276c",
+    "Light 'Em Up Spray": "4d13296a-4f9d-05a1-8894-018af5205848",
     "All Yuck, No Yum Spray": "fb5a3e47-42dd-c876-bd7d-0197d2b3d009",
     "Ego or Eco Spray": "5a328cd4-4cb5-4e64-60c2-6487281390ff",
     "Secret Sequence Spray": "174b7f71-40a2-f090-3806-008f25d38d30",
     "Shreddy Teddy Spray": "6aff01b3-443c-d98c-820e-05852efc075f",
     "Pity Party Spray": "2d9be381-4686-b392-310e-8bb2a6707f7e",
     "Predicament Pals Spray": "770cbcca-40bd-0c68-0aae-b2a98747c8f0",
+    "Duo's Day: Left Spray": "deb1c72c-414f-0c1c-5b35-d08112daba31",
+    "Duo's Day: Right Spray": "8b59a18b-440b-8277-f920-7d986ae0f072",
     "Tag! You're Dead! Spray": "7c3771b2-4ea7-9188-bfd4-c08feeca3984",
     "Overdrive Spray": "983d6cf0-43d5-900e-ca43-5298f44378af",
     "Crimsonbeast Spray": "13aa2012-4149-e57a-b21d-a8a795cdb131",
@@ -597,6 +601,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Forsaken Spray": "70fa1a13-4964-6ef8-62ce-c4827a3d8f70",
     "Ruin Spray": "021c99dd-4a43-01fb-70df-fc83cd0f0560",
     "Prime//2.0 Spray": "65239071-41a8-34d2-cf45-bc8da80b42f0",
+    "XERØFANG Spray ": "6ab339ad-4bcd-6bb2-e467-37adec3a048a",
     "Ruination Spray": "ce90906d-40da-367b-4a7a-e7a692516ee1",
     "Magepunk Spray": "405beaef-4c2d-df2d-fe9d-689d59d08e65",
     "Spline Spray": "9a657204-4376-ed61-ad3e-0a8b7bbecd18",
@@ -1849,6 +1854,12 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Party's Here Spray": {
         "1": "ec00e30b-48ac-8570-0cb6-e68aa0ac8ae9",
     },
+    "Delightful Stretch Spray": {
+        "1": "3126a386-41d8-b3b0-7e9f-bca53fee0ba0",
+    },
+    "Light 'Em Up Spray": {
+        "1": "7c15e833-441a-2b4f-b4c1-90a1f9aab5e5",
+    },
     "All Yuck, No Yum Spray": {
         "1": "ec8d1114-465c-6844-6635-98ab035bed14",
     },
@@ -1866,6 +1877,12 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Predicament Pals Spray": {
         "1": "9179c8b4-4551-1d07-a399-18bd14b94405",
+    },
+    "Duo's Day: Left Spray": {
+        "1": "25da1e82-4fcd-dce2-3a75-1ba95e210e8e",
+    },
+    "Duo's Day: Right Spray": {
+        "1": "b10550e9-4a6a-1660-fffa-d58b95b1c56d",
     },
     "Tag! You're Dead! Spray": {
         "1": "3b28b078-4575-e117-9f2f-04bca5882b4f",
@@ -17296,8 +17313,11 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "No Spray Equipped": {
         "1": "d1537344-4fe7-79bb-2689-a293e49dd094",
     },
-    "No Spray Equipped": {
-        "1": "d1537344-4fe7-79bb-2689-a293e49dd094",
+    "XERØFANG Spray ": {
+        "1": "e683b089-433c-b744-af5e-08839216833d",
+    },
+    "Ruination Spray": {
+        "1": "760cb5d5-4710-c012-5797-ab9e72395030",
     },
     "No Spray Equipped": {
         "1": "d1537344-4fe7-79bb-2689-a293e49dd094",
