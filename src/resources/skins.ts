@@ -5136,6 +5136,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "0ea6282c-4927-79ee-495c-98b3215cf886",
         "Level 4": "4e7e8ed2-44bf-3112-f643-6686c6a2250b",
     },
+    "XERØFANG Vandal ": {
+        "Level 1": "1d722b60-4def-659b-cb30-45970ab2e606",
+        "Level 2": "6fa5629e-4005-a012-7c72-5fac304aa525",
+        "Level 3": "0ea6282c-4927-79ee-495c-98b3215cf886",
+        "Level 4": "4e7e8ed2-44bf-3112-f643-6686c6a2250b",
+    },
     "Avalanche Vandal": {
         "Level 1": "fbfc273b-4c12-961a-a4fb-978b43be81a9",
     },
@@ -6422,11 +6428,14 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Tactifriends: "8b6534d4-4460-20f5-15fc-83a5c301cdea",
         LeagueofLegends: "b90cd8ea-46c2-b103-24aa-e782f9b01659",
     },
-    "Neo Frontier Phantom": {
-        Default: "9663ea87-4ff9-2934-0919-1fb72ee59a9b",
-        Gold: "d57b01a6-40f3-0a06-5007-05af96377f3b",
-        Silver: "a768c1da-497f-0bee-b325-f89183ab1c5d",
-        Copper: "072cf7fe-4362-f93f-e844-fd9f4f305ebe",
+    "XERØFANG Ghost": {
+        "Level 1": "51ba009e-4af0-8255-5ada-8a89d244f24c",
+        "Level 2": "5b9d8b84-4392-aeed-6875-08ab11dafe19",
+        "Level 3": "ac1d2fd9-445c-783f-3759-529f4386959f",
+        "Level 4": "212a97e3-4d94-87db-18e7-9caa0b8205dc",
+    },
+    "Outpost Ghost": {
+        "Level 1": "9fa5664e-45fa-2a52-68e4-db97d85c8a91",
     },
     "Sarmad Phantom": {
         Default: "a6798c54-438d-c398-a8ff-4f9558a9c782",
@@ -7126,6 +7135,15 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Ego Outlaw": {
         "Level 1": "d76e97cf-4a23-cafa-fe60-439a8ca7b37a",
     },
+    "Prism//Reloaded Outlaw": {
+        "Level 1": "0215edbb-4d4c-ef7a-3b4f-aba2e0c1014a",
+    },
+    "Standard Outlaw": {
+        "Level 1": "e4d16fc0-47a2-323f-0564-9495418237e8",
+    },
+    "Ego Outlaw": {
+        "Level 1": "d76e97cf-4a23-cafa-fe60-439a8ca7b37a",
+    },
     "Task Force 809 Marshal": {
         "Level 1": "8c19bbbd-46aa-6037-b0fd-edafd6227de6",
     },
@@ -7743,6 +7761,10 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Wayfarer Sheriff": {
         Default: "0d3c5ca0-49a2-eef8-d01a-2e9dd8d5d574",
+    },
+    "XERØFANG Knife": {
+        "Level 1": "062e684d-4212-eeff-7443-cbb53b0f5ce2",
+        "Level 2": "70390764-4b8a-6552-fc0f-d69fcccfa83c",
     },
     "XERØFANG Knife": {
         "Level 1": "062e684d-4212-eeff-7443-cbb53b0f5ce2",
@@ -8367,6 +8389,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Pink: "2f095b09-4bae-3868-bf00-678748f7c083",
         "Red/Green": "104c561d-448d-59d9-9b42-bda69469122f",
         "Blue/Purple": "46e88e9f-46b0-89ea-5874-f7b8a9666a91",
+    },
+    "XERØFANG Vandal ": {
+        Default: "301fef53-4091-7bf8-07b9-bc8701b217a5",
+        Black: "13f520fd-44df-097b-2476-298f6a773b3a",
+        Pink: "a4c996d3-4b0a-d867-facc-01b613f0aca8",
+        Silver: "1e1d6d2f-433b-f15b-2936-c89ea5dcaf3a",
     },
     "XERØFANG Vandal ": {
         Default: "301fef53-4091-7bf8-07b9-bc8701b217a5",
@@ -9582,6 +9610,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Pink: "510eda56-48f1-aa87-bbf8-daabbfc80df6",
         Silver: "a1ea10cd-4879-66ff-3b53-038f946f49d4",
     },
+    "XERØFANG Ghost": {
+        Default: "210b969e-496c-29fc-d2f3-7da9bfeb618f",
+        Black: "344fed75-47c0-fb2d-2e54-c89ca3b7d8ab",
+        Pink: "510eda56-48f1-aa87-bbf8-daabbfc80df6",
+        Silver: "a1ea10cd-4879-66ff-3b53-038f946f49d4",
+    },
     "Outpost Ghost": {
         Default: "20e2f0ee-43a8-5b68-403d-4a8c3158619d",
     },
@@ -10286,6 +10320,21 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Composite Knife": {
         Default: "66d057a7-4681-bd8b-ecbc-258573e6fd0a",
+    },
+    "Prism//Reloaded Outlaw": {
+        Default: "7ab22263-4c7a-ee26-7e49-b6947faa45e7",
+        Orange: "032f6423-40d5-7fb4-3e14-64b2d1e59bba",
+        Pink: "aa0fd9a6-4222-bbc6-adff-4f8e71bd8b7d",
+        Green: "d49f55a7-48c6-11b4-9e34-88bdeb7fab08",
+    },
+    "Standard Outlaw": {
+        Default: "66c8d241-4f7c-6652-3aaa-51bafffbd493",
+    },
+    "Ego Outlaw": {
+        Default: "bb8acb8d-42a0-01ce-c342-168b674aab2d",
+        Red: "56c6efe6-44f8-8c6c-3ab9-1a8a4f7c80ee",
+        Tan: "d61375ca-466d-75a5-7e65-65a863ee79d6",
+        Pink: "d637f729-49f4-cbce-3d0d-a0bbefb7e522",
     },
     "Prism//Reloaded Outlaw": {
         Default: "7ab22263-4c7a-ee26-7e49-b6947faa45e7",
@@ -11023,6 +11072,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Luna's Descent": {
         Default: "2de976d1-498c-eb19-9dc0-e6937915acea",
+    },
+    "XERØFANG Knife": {
+        Default: "cdbb2e19-465d-4ba0-4617-51bbe1f208e7",
+        Black: "a3145477-4e34-16a0-dacc-d485091199d6",
+        Pink: "0afce91c-445d-380d-d879-1ea038567572",
+        Silver: "17c52637-4310-6b20-6a0e-43b8c4c39d7c",
     },
     "XERØFANG Knife": {
         Default: "cdbb2e19-465d-4ba0-4617-51bbe1f208e7",

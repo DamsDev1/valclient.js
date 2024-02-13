@@ -17316,6 +17316,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "XERØFANG Spray ": {
         "1": "e683b089-433c-b744-af5e-08839216833d",
     },
+    "XERØFANG Spray ": {
+        "1": "e683b089-433c-b744-af5e-08839216833d",
+    },
     "Ruination Spray": {
         "1": "760cb5d5-4710-c012-5797-ab9e72395030",
     },

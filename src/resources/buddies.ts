@@ -1110,6 +1110,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "XERØFANG Buddy ": {
         "1": "f1cd02c0-44ca-79b8-1737-ecbdb9b46ae2",
     },
+    "XERØFANG Buddy ": {
+        "1": "f1cd02c0-44ca-79b8-1737-ecbdb9b46ae2",
+    },
     "Frozen Solid Buddy": {
         "1": "48aaf4dc-49b9-d8dc-c599-a4917019cc82",
     },
@@ -2463,6 +2466,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Fortune Paws Buddy": {
         "1": "706952bf-4d42-d804-5efb-50aec992c374",
     },
+    "Fortune Paws Buddy": {
+        "1": "706952bf-4d42-d804-5efb-50aec992c374",
+    },
     "Toaster Buddy": {
         "1": "7944b081-4b0f-81c8-e41f-3aa5c634b782",
     },
@@ -2504,6 +2510,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "White Snake Buddy": {
         "1": "0c163690-44c5-a5f1-3bdc-42acdc75df94",
+    },
+    "Duo's Day Buddy": {
+        "1": "04c5b7dd-40a2-643e-b34f-3e88a533ea4e",
     },
     "Duo's Day Buddy": {
         "1": "04c5b7dd-40a2-643e-b34f-3e88a533ea4e",
