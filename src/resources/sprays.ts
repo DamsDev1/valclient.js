@@ -500,6 +500,21 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Drink Up! Spray": "1ec7c777-45ab-a586-bbb6-f5b60a0b25a1",
     "UWU Spray": "416fee34-4589-b2bd-917a-08b1047f261d",
     "Caught One Spray": "ed488b56-408b-cf22-a54c-5e9c4da04612",
+    "Sip of Joy Spray": "b56cb702-48f1-4368-ec7a-cdaf5b6194ae",
+    "Comet Spray": "90ce8d9f-4572-973a-98c4-0b84979ba08e",
+    "Where's My Knife? Spray": "66b4e570-4794-a2e2-3df9-d5a1ac3fc6d9",
+    "Boomtastic Spray": "ba1e4f8e-40a9-7c31-4475-f28386250ecc",
+    "Tacti-Series Spray": "8bcc0822-429d-d8d2-27ae-21a50187506c",
+    "No Bodyblock Spray": "f74da4c5-4445-41cf-e0fc-5396919f47fe",
+    "No Spray Spray": "8c825561-4083-9503-081d-409142591a6f",
+    "NO. 1 Fan Spray": "0f79ac11-45d3-7963-a8ec-9ca6e310a815",
+    "Sure You Can Spray": "f956e8df-48f0-2017-a61a-1cbc8712248b",
+    "Go Team Go Spray": "6f6ae8d2-4eb3-f760-06d2-749ec6eba03e",
+    "Maybe Next Time Spray": "b1655fe2-4110-97f9-e64c-d9a3dba23b98",
+    "Cloudweaver Spray": "c60c4887-4eef-9efd-92e0-2d9ff2f00ae5",
+    "One Correct Answer Spray": "e6bd8660-4c7b-5989-12c8-c483d6f1236c",
+    "Go Again? Spray": "0d5ac29c-482f-1a31-eba2-bba3acb2c2c4",
+    "Wingman Wiggle Spray": "711fed4a-4ef5-3a31-1763-af96caec4d38",
     "Champions 2022 Jett Diff Spray": "556008f0-41bb-d752-3747-1aabc73499c8",
     "VCT 2021 Spark Spray": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
     "Fakeout Spray": "076630c8-4bc9-d953-eb13-6e81e341840c",
@@ -640,6 +655,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Reaver, EP 5 Spray": "b909e6f9-426c-e77d-9016-60ae23a0d11f",
     "Sovereign Spray": "d54e0883-4967-5808-e25c-37b3e6313e5c",
     "Sovereign, Ep 8 Spray": "837b0b29-4bc9-dd7f-eccb-7d88884d592d",
+    "Mystbloom Spray": "c9eb6299-4bdf-11ab-0751-3c93717754d0",
     "Clip It Spray": "180a93cb-4ba4-db87-b357-b9b104373a74",
     "Neon Spray": "bcf042e4-463c-7fc1-a2c7-0ca17791da9c",
     "Hot Mic Spray": "a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db",
@@ -1307,6 +1323,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Capsule Collector Spray": {
         "1": "8753e2e6-428c-ba9b-5a99-2db031323870",
     },
+    "Capsule Collector Spray": {
+        "1": "8753e2e6-428c-ba9b-5a99-2db031323870",
+    },
     "All Aboard Spray": {
         "1": "83bb84b9-4cee-37c3-9012-abb928bca332",
     },
@@ -1796,6 +1815,51 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Caught One Spray": {
         "1": "16f8c6c5-4612-77ed-94f3-cd8e10aa4a9c",
     },
+    "Sip of Joy Spray": {
+        "1": "d13c4f22-421c-b713-1899-b6b8153dc601",
+    },
+    "Comet Spray": {
+        "1": "ee8a823c-4eff-8ab2-24d4-efa20f7f0393",
+    },
+    "Where's My Knife? Spray": {
+        "1": "62559224-4384-1d85-1f32-cf97ad2a4fb4",
+    },
+    "Boomtastic Spray": {
+        "1": "f3deaac8-4c56-72a7-6f45-23a44abbbc97",
+    },
+    "Tacti-Series Spray": {
+        "1": "63f1f29b-41d8-c217-b613-8eb6cab94b96",
+    },
+    "No Bodyblock Spray": {
+        "1": "7d07b74e-4413-a06b-c96c-13a3d5316383",
+    },
+    "No Spray Spray": {
+        "1": "50570af2-4f7b-b853-add1-94bcac383a15",
+    },
+    "NO. 1 Fan Spray": {
+        "1": "1fe4810c-4315-6c3a-6d9f-c184857da8b3",
+    },
+    "Sure You Can Spray": {
+        "1": "1ba8f99f-4258-75e0-d341-90b0041dc805",
+    },
+    "Go Team Go Spray": {
+        "1": "eef7b51d-4a24-54d3-1b08-9692ec71b462",
+    },
+    "Maybe Next Time Spray": {
+        "1": "773a413c-4944-2254-2699-edb161744686",
+    },
+    "Cloudweaver Spray": {
+        "1": "41e3d6e2-48d9-9e4a-a2dd-c9a54d7f7049",
+    },
+    "One Correct Answer Spray": {
+        "1": "d8def120-41e7-86f6-f708-b7a3fdaaa1cc",
+    },
+    "Go Again? Spray": {
+        "1": "9a1a13bd-4468-569e-4f97-f8830113c4e2",
+    },
+    "Wingman Wiggle Spray": {
+        "1": "61a4211c-4f31-b167-1cdf-07a64d8cd0ab",
+    },
     "Champions 2022 Jett Diff Spray": {
         "1": "39ee62f9-4aa1-6331-85d1-fe8c9116c960",
     },
@@ -1879,6 +1943,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Breach's Approval Spray": {
         "1": "8d6df619-45d3-cf2b-d6ff-2bb7806a9b3c",
+    },
+    "Primordium Spray": {
+        "1": "6dc48b52-4a61-7eec-12f3-358c2f286398",
     },
     "Primordium Spray": {
         "1": "6dc48b52-4a61-7eec-12f3-358c2f286398",
@@ -2144,8 +2211,11 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Rush Forward Spray": {
         "1": "423fcca9-4622-bde2-1faa-0f94922b3333",
     },
-    "Crane Blossom Spray": {
-        "1": "7c211b2a-46d2-6007-c44f-22a7f5fdfbf6",
+    "XERØFANG Spray ": {
+        "1": "e683b089-433c-b744-af5e-08839216833d",
+    },
+    "Ruination Spray": {
+        "1": "760cb5d5-4710-c012-5797-ab9e72395030",
     },
     "Loyal Look Spray": {
         "1": "36562449-4250-a27e-32f1-13b8c26ca51f",
@@ -2183,14 +2253,29 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Defuse Deception Spray": {
         "1": "f408dcbb-483f-8877-86ce-74a49ea4f65a",
     },
-    "Freehand Spray": {
-        "1": "d6deb524-4a59-6945-a32c-e4b13afca800",
+    "Clove Spray": {
+        "1": "31e1d930-4e0e-f2a9-20b2-898c1babb945",
+    },
+    "Wee Punk Spray": {
+        "1": "2ea5c569-48cd-0f7d-438d-9da01a615afe",
+    },
+    "Gloomheart Spray": {
+        "1": "22d4f683-4018-ad5b-d9cc-ca81d168bbb9",
+    },
+    "Reaver, EP 5 Spray": {
+        "1": "a6a4ae29-4b62-b21d-85b7-34a6d2cf0169",
     },
     "Power Punch Spray": {
         "1": "95c5016d-4242-caf6-c54d-8ea380e7eedf",
     },
-    "There is Only One Truth Spray": {
-        "1": "bff21c81-418e-8aae-568e-55a9c13622cb",
+    "Sovereign, Ep 8 Spray": {
+        "1": "c69b5076-4a05-69a3-a7d0-af9dbbae9634",
+    },
+    "Mystbloom Spray": {
+        "1": "cb1fe017-4084-c08a-b8ac-539698c3fa64",
+    },
+    "Clip It Spray": {
+        "1": "457b5d43-4199-ae99-6866-a8a7342393be",
     },
     "Updraft Scare Spray": {
         "1": "f417d841-4bca-b767-7c7e-b896cb49554f",
@@ -2240,8 +2325,107 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Tactiplay Spray": {
         "1": "745d628b-4ba0-99a2-fcf1-9a9b32af0c79",
     },
-    "Just Another Wave Spray ": {
-        "1": "a92d4dbb-4512-1b02-2c85-f995b928ccdf",
+    "VCT x 100T Spray": {
+        "1": "a6783f4e-47ed-f26e-8862-8ab2ae272f21",
+    },
+    "VCT x BBL Spray": {
+        "1": "80a105b9-4759-18fa-298c-14ba3eb8f0e8",
+    },
+    "VCT x BLD Spray": {
+        "1": "41ff24f7-42aa-e49b-0d58-9fa379451046",
+    },
+    "VCT x C9 Spray": {
+        "1": "b91b5e18-461e-5208-0767-638d5fda676b",
+    },
+    "VCT x DFM Spray": {
+        "1": "8823f2c9-4596-a362-65d5-68a118342dfe",
+    },
+    "VCT x DRX Spray": {
+        "1": "ead1de02-4b4d-28c9-663f-1aaacaded227",
+    },
+    "VCT x EG Spray": {
+        "1": "f018d3c1-4454-e69f-87b4-91907a7964dc",
+    },
+    "VCT x FNC Spray": {
+        "1": "31715f42-445e-3839-6102-34b47d65111a",
+    },
+    "VCT x FUR Spray": {
+        "1": "9ccff80e-446a-067e-e017-a5a7e96bd456",
+    },
+    "VCT x FUT Spray": {
+        "1": "a97cd0aa-44d0-f1b2-53ae-ef8dc7b68f0a",
+    },
+    "VCT x G2 Spray": {
+        "1": "4d4c19be-41d9-353d-e36b-81bb89439b2e",
+    },
+    "VCT x GEN Spray": {
+        "1": "06e9938b-4dbd-5067-29ff-4c8da62a2260",
+    },
+    "VCT x GE Spray": {
+        "1": "214ac6ea-4857-bf59-a51e-50971d502954",
+    },
+    "VCT x GX Spray": {
+        "1": "0e02bc68-4c58-89b0-3daa-dbbf29674369",
+    },
+    "VCT x KC Spray": {
+        "1": "05cad927-40c4-7400-f4d8-03864b9dcc50",
+    },
+    "VCT x KOI Spray": {
+        "1": "e3e6f337-4953-8479-dd75-4b9545243540",
+    },
+    "VCT x KRÜ Spray": {
+        "1": "58212bdd-4e1b-91f5-dce3-e9bebed5d890",
+    },
+    "VCT x LEV Spray": {
+        "1": "d0dbc2f7-4a6a-a151-1403-18b50e02717f",
+    },
+    "VCT x LOUD Spray": {
+        "1": "c09f1065-4351-ad82-94b0-378586581ef9",
+    },
+    "VCT x M8 Spray": {
+        "1": "140127cf-4998-b88d-666c-f0b2a06e31e3",
+    },
+    "VCT x MIBR Spray": {
+        "1": "ca66533b-47e6-1034-9369-bf871cd231c1",
+    },
+    "VCT x NAVI Spray": {
+        "1": "2c586981-4728-ad4d-9fe9-1d9e2630ae09",
+    },
+    "VCT x NRG Spray": {
+        "1": "00aa95e0-476e-af16-3373-54934528c043",
+    },
+    "VCT x PRX Spray": {
+        "1": "419c50f4-482c-49a2-629f-37a1876de5dd",
+    },
+    "VCT x RRQ Spray": {
+        "1": "8ce643db-4818-e426-8452-bdb810b15bc0",
+    },
+    "VCT x SEN Spray": {
+        "1": "a398171a-44ba-7ffe-f07e-73a3c04d7b0f",
+    },
+    "VCT x T1 Spray": {
+        "1": "825cce28-4d8e-9ad5-42fc-5cb2f968c9dc",
+    },
+    "VCT x TH Spray": {
+        "1": "662e0bee-413b-83e8-1f36-4fbe444e683d",
+    },
+    "VCT x TL Spray": {
+        "1": "cb3062a5-4ab0-0e9f-19ae-7fa626029213",
+    },
+    "VCT x TLN Spray": {
+        "1": "6d78dc2b-46bb-4bf0-be4a-d8a32c35fd65",
+    },
+    "VCT x TS Spray": {
+        "1": "d46a90d8-41e1-5fc3-b2c7-41b5f9fc74a7",
+    },
+    "VCT x VIT Spray": {
+        "1": "b76380c0-4c50-0d4e-6c89-3e93f54f645b",
+    },
+    "VCT x ZETA Spray": {
+        "1": "1d21856b-462b-ec8e-08c2-98a7df9e3dbf",
+    },
+    "Reyna Spray": {
+        "1": "d04d33f8-48cf-112f-f6aa-62aea1f7fb27",
     },
     "Cup O' Crown Spray": {
         "1": "1c3ffab8-4fee-e470-c81b-97ad5852077f",
