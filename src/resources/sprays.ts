@@ -1326,6 +1326,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Capsule Collector Spray": {
         "1": "8753e2e6-428c-ba9b-5a99-2db031323870",
     },
+    "Capsule Collector Spray": {
+        "1": "8753e2e6-428c-ba9b-5a99-2db031323870",
+    },
     "All Aboard Spray": {
         "1": "83bb84b9-4cee-37c3-9012-abb928bca332",
     },
@@ -1950,6 +1953,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Primordium Spray": {
         "1": "6dc48b52-4a61-7eec-12f3-358c2f286398",
     },
+    "Primordium Spray": {
+        "1": "6dc48b52-4a61-7eec-12f3-358c2f286398",
+    },
     "Sova Spray": {
         "1": "b16f37f3-4046-304e-2a53-50b404e60243",
     },
@@ -2214,6 +2220,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "XERØFANG Spray ": {
         "1": "e683b089-433c-b744-af5e-08839216833d",
     },
+    "XERØFANG Spray ": {
+        "1": "e683b089-433c-b744-af5e-08839216833d",
+    },
     "Ruination Spray": {
         "1": "760cb5d5-4710-c012-5797-ab9e72395030",
     },
@@ -2262,11 +2271,26 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Gloomheart Spray": {
         "1": "22d4f683-4018-ad5b-d9cc-ca81d168bbb9",
     },
+    "Clove Spray": {
+        "1": "31e1d930-4e0e-f2a9-20b2-898c1babb945",
+    },
+    "Wee Punk Spray": {
+        "1": "2ea5c569-48cd-0f7d-438d-9da01a615afe",
+    },
+    "Gloomheart Spray": {
+        "1": "22d4f683-4018-ad5b-d9cc-ca81d168bbb9",
+    },
     "Reaver, EP 5 Spray": {
         "1": "a6a4ae29-4b62-b21d-85b7-34a6d2cf0169",
     },
     "Power Punch Spray": {
         "1": "95c5016d-4242-caf6-c54d-8ea380e7eedf",
+    },
+    "Sovereign, Ep 8 Spray": {
+        "1": "c69b5076-4a05-69a3-a7d0-af9dbbae9634",
+    },
+    "Mystbloom Spray": {
+        "1": "cb1fe017-4084-c08a-b8ac-539698c3fa64",
     },
     "Sovereign, Ep 8 Spray": {
         "1": "c69b5076-4a05-69a3-a7d0-af9dbbae9634",
@@ -2327,6 +2351,105 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "VCT x 100T Spray": {
         "1": "a6783f4e-47ed-f26e-8862-8ab2ae272f21",
+    },
+    "VCT x BBL Spray": {
+        "1": "80a105b9-4759-18fa-298c-14ba3eb8f0e8",
+    },
+    "VCT x BLD Spray": {
+        "1": "41ff24f7-42aa-e49b-0d58-9fa379451046",
+    },
+    "VCT x C9 Spray": {
+        "1": "b91b5e18-461e-5208-0767-638d5fda676b",
+    },
+    "VCT x DFM Spray": {
+        "1": "8823f2c9-4596-a362-65d5-68a118342dfe",
+    },
+    "VCT x DRX Spray": {
+        "1": "ead1de02-4b4d-28c9-663f-1aaacaded227",
+    },
+    "VCT x EG Spray": {
+        "1": "f018d3c1-4454-e69f-87b4-91907a7964dc",
+    },
+    "VCT x FNC Spray": {
+        "1": "31715f42-445e-3839-6102-34b47d65111a",
+    },
+    "VCT x FUR Spray": {
+        "1": "9ccff80e-446a-067e-e017-a5a7e96bd456",
+    },
+    "VCT x FUT Spray": {
+        "1": "a97cd0aa-44d0-f1b2-53ae-ef8dc7b68f0a",
+    },
+    "VCT x G2 Spray": {
+        "1": "4d4c19be-41d9-353d-e36b-81bb89439b2e",
+    },
+    "VCT x GEN Spray": {
+        "1": "06e9938b-4dbd-5067-29ff-4c8da62a2260",
+    },
+    "VCT x GE Spray": {
+        "1": "214ac6ea-4857-bf59-a51e-50971d502954",
+    },
+    "VCT x GX Spray": {
+        "1": "0e02bc68-4c58-89b0-3daa-dbbf29674369",
+    },
+    "VCT x KC Spray": {
+        "1": "05cad927-40c4-7400-f4d8-03864b9dcc50",
+    },
+    "VCT x KOI Spray": {
+        "1": "e3e6f337-4953-8479-dd75-4b9545243540",
+    },
+    "VCT x KRÜ Spray": {
+        "1": "58212bdd-4e1b-91f5-dce3-e9bebed5d890",
+    },
+    "VCT x LEV Spray": {
+        "1": "d0dbc2f7-4a6a-a151-1403-18b50e02717f",
+    },
+    "VCT x LOUD Spray": {
+        "1": "c09f1065-4351-ad82-94b0-378586581ef9",
+    },
+    "VCT x M8 Spray": {
+        "1": "140127cf-4998-b88d-666c-f0b2a06e31e3",
+    },
+    "VCT x MIBR Spray": {
+        "1": "ca66533b-47e6-1034-9369-bf871cd231c1",
+    },
+    "VCT x NAVI Spray": {
+        "1": "2c586981-4728-ad4d-9fe9-1d9e2630ae09",
+    },
+    "VCT x NRG Spray": {
+        "1": "00aa95e0-476e-af16-3373-54934528c043",
+    },
+    "VCT x PRX Spray": {
+        "1": "419c50f4-482c-49a2-629f-37a1876de5dd",
+    },
+    "VCT x RRQ Spray": {
+        "1": "8ce643db-4818-e426-8452-bdb810b15bc0",
+    },
+    "VCT x SEN Spray": {
+        "1": "a398171a-44ba-7ffe-f07e-73a3c04d7b0f",
+    },
+    "VCT x T1 Spray": {
+        "1": "825cce28-4d8e-9ad5-42fc-5cb2f968c9dc",
+    },
+    "VCT x TH Spray": {
+        "1": "662e0bee-413b-83e8-1f36-4fbe444e683d",
+    },
+    "VCT x TL Spray": {
+        "1": "cb3062a5-4ab0-0e9f-19ae-7fa626029213",
+    },
+    "VCT x TLN Spray": {
+        "1": "6d78dc2b-46bb-4bf0-be4a-d8a32c35fd65",
+    },
+    "VCT x TS Spray": {
+        "1": "d46a90d8-41e1-5fc3-b2c7-41b5f9fc74a7",
+    },
+    "VCT x VIT Spray": {
+        "1": "b76380c0-4c50-0d4e-6c89-3e93f54f645b",
+    },
+    "VCT x ZETA Spray": {
+        "1": "1d21856b-462b-ec8e-08c2-98a7df9e3dbf",
+    },
+    "Reyna Spray": {
+        "1": "d04d33f8-48cf-112f-f6aa-62aea1f7fb27",
     },
     "VCT x BBL Spray": {
         "1": "80a105b9-4759-18fa-298c-14ba3eb8f0e8",
